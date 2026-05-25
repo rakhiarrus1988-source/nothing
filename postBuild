@@ -1,0 +1,4 @@
+#!/bin/bash
+apt-get update
+freshclam
+pip install git+https://github.com/Juvenal-Yescas/mediafire-dl.git
