@@ -1,0 +1,7 @@
+clamav
+clamav-daemon
+unzip
+unrar
+p7zip-full
+wget
+file
